@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T08:36:03.669Z'
-dateModified: '2016-02-16T08:31:35.501Z'
+datePublished: '2016-02-16T08:49:31.628Z'
+dateModified: '2016-02-16T08:40:27.753Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -85,7 +85,20 @@ Online Debate:
 
 # How Gold Forms
 
-http://volcano.oregonstate.edu/gold
+Source: [http://volcano.oregonstate.edu/gold][15]
+
+**Gold in Greenstone Belts
+**
+
+**Gold in Porphyry Deposits
+**
+
+**Gold in Epithermal Deposits
+**
+
+[http://www.cbmap.net/images/nelson-gold-in-the-hot-spring-environment.pdf][16]
+
+****
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -102,3 +115,5 @@ http://volcano.oregonstate.edu/gold
 [12]: http://www.treasurenet.com/forums/gold-prospecting/332677-gold-well-drop-riffle-vortex-sluice-action.html
 [13]: http://www.goldfeverprospecting.com/letrslboxrir.html
 [14]: http://www.goldrushtradingpost.com/angus_mackirk_products
+[15]: http://volcano.oregonstate.edu/gold
+[16]: http://www.cbmap.net/images/nelson-gold-in-the-hot-spring-environment.pdf
