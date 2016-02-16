@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T08:59:27.295Z'
-dateModified: '2016-02-16T08:56:01.559Z'
+datePublished: '2016-02-16T09:16:14.225Z'
+dateModified: '2016-02-16T09:15:34.824Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -100,17 +100,23 @@ Source: [http://volcano.oregonstate.edu/gold][15]
 
 [http://investingnews.com/daily/resource-investing/precious-metals-investing/gold-investing/an-overview-of-epithermal-gold-deposits/][17]
 
-Ancient Volcanoes Yield Gold, Silver, Oil and Diamonds
+**Ancient Volcanoes Yield Gold, Silver, Oil and Diamonds**
 
-Popular Mechanics April 1938
+**Popular Mechanics April 1938**
 
 [https://books.google.co.kr/books?id=79sDAAAAMBAJ&pg=PA504&lpg=PA504&dq=extinct+volcanoes+gold&source=bl&ots=9QSYDLtv\_3&sig=pWjoKwyiN5uNwXPAaT1nSStYPig&hl=en&sa=X&ved=0CE0Q6AEwCWoVChMIlZL\_18XxxwIVxJmUCh0AfAYZ\#v=onepage&q=extinct%20volcanoes%20gold&f=false][18]
 
+**Where to Find Gold -- Look to Ancient Volcanic Zones**
+
+[http://www.goldprospectorkit.com/uncategorized/where-to-find-gold-look-for-magma/][19]
+
 **Earthquakes Make Gold**
 
-[Source(s): http://www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615][19]
+[http://www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615][20]
 
-undefined
+Gold Vs. Fool's Gold: [http://www.goldgold.com/fools-gold.html][21]
+
+Gold does not glitter; it shines. Fools gold will glitter.
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -131,4 +137,6 @@ undefined
 [16]: http://www.cbmap.net/images/nelson-gold-in-the-hot-spring-environment.pdf
 [17]: http://investingnews.com/daily/resource-investing/precious-metals-investing/gold-investing/an-overview-of-epithermal-gold-deposits/
 [18]: https://books.google.co.kr/books?id=79sDAAAAMBAJ&pg=PA504&lpg=PA504&dq=extinct+volcanoes+gold&source=bl&ots=9QSYDLtv_3&sig=pWjoKwyiN5uNwXPAaT1nSStYPig&hl=en&sa=X&ved=0CE0Q6AEwCWoVChMIlZL_18XxxwIVxJmUCh0AfAYZ#v=onepage&q=extinct%20volcanoes%20gold&f=false
-[19]: Source%28s%29:%20http:/www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615
+[19]: http://www.goldprospectorkit.com/uncategorized/where-to-find-gold-look-for-magma/
+[20]: Source%28s%29:%20http:/www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615
+[21]: http://www.goldgold.com/fools-gold.html
