@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T03:29:02.020Z'
-dateModified: '2016-02-16T03:28:58.045Z'
-title: "\_ \_ \_Prospecting For Gold"
+datePublished: '2016-02-16T05:38:37.607Z'
+dateModified: '2016-02-16T05:38:25.333Z'
+title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
 published: true
@@ -32,11 +32,16 @@ This is my original initial set I purchased in order to get started in panning f
 I plan to invest in the following items:
 
 1\. Turbopan: [http://www.turbopan.com][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76610d8f-a7cc-4ba4-bd95-1651ee67ae9c.jpg)
 
-2\. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545 ][1]
+[https://www.youtube.com/watch?v=bRR\_n\_aYK5o][1]
 
-[https://www.youtube.com/watch?v=QGX1wXWl1rk][2]
+2\. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545 ][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f82c1673-b2eb-4218-ac83-a0cd282889a9.jpg)
+
+[https://www.youtube.com/watch?v=QGX1wXWl1rk][3]
 
 [0]: http://www.turbopan.com/
-[1]: http://www.gold-n-sand.com/#/x-stream-pro/4578344545
-[2]: https://www.youtube.com/watch?v=QGX1wXWl1rk
+[1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
+[2]: http://www.gold-n-sand.com/#/x-stream-pro/4578344545
+[3]: https://www.youtube.com/watch?v=QGX1wXWl1rk
