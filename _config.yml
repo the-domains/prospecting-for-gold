@@ -1,6 +1,6 @@
 name: Prospecting for Gold
 favicon: null
-layout_spectrum: 0.6722277221269906
+layout_spectrum: 0.92685
 typography_spectrum: 0.8017654032446444
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#099455'
+    - '#0f6d3d'
+    - '#09542b'
+    - '#48612a'
+    - '#28ab71'
   brandStrength: 0.7079456248320639
   lightness: 0.25619468465447426
   saturation: 0.37106141820549965
