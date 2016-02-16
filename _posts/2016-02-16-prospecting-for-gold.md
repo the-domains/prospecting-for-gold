@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T05:38:37.607Z'
-dateModified: '2016-02-16T05:38:25.333Z'
+datePublished: '2016-02-16T05:40:22.908Z'
+dateModified: '2016-02-16T05:40:20.499Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -40,6 +40,8 @@ I plan to invest in the following items:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f82c1673-b2eb-4218-ac83-a0cd282889a9.jpg)
 
 [https://www.youtube.com/watch?v=QGX1wXWl1rk][3]
+
+3\. Dowsing Rod - made of copper
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
