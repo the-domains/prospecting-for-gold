@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T07:55:53.169Z'
-dateModified: '2016-02-16T07:55:50.109Z'
+datePublished: '2016-02-16T08:28:30.434Z'
+dateModified: '2016-02-16T08:27:41.600Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -49,7 +49,9 @@ D. Classifiers: [http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier
 
 E. Sleuce Boxes: 
 
-1\. Drop Ripple Sleuce: [http://www.gotnuggets.com/drriabsplsls.html][5]
+1\. Drop Ripple Sleuce: 
+
+[http://www.gotnuggets.com/drriabsplsls.html][5]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c8178f-808a-4e6a-9c25-86c899e320a6.jpg)
 
 Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-sluice-box-finding-gold-fast-easy.html][6]
@@ -64,7 +66,18 @@ Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-slu
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfadca6e-8d03-4399-9fe0-8fc989f4f4d4.jpg)
 
 5\. Vortex Drop Riffle Sluice Box:  [http://www.goldrushtradingpost.com/gold\_well\_vortex\_sluice][9]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c926ae53-4c8f-47a5-a3ae-bc9a13e02bfd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ca33899532da1f8de29084c7e1ee027febf968d.jpg)
+
+[https://www.youtube.com/watch?v=IJPhY2QbZ2Y][10]
+
+Facebook:  [https://www.facebook.com/gold.well.18/][11]
+
+6\. Le Trap Sluice Box: [http://www.goldfeverprospecting.com/letrslboxrir.html][12]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb97f15f-de65-45d4-8bbb-f800fa4ec055.jpg)
+
+7\. Angus MacKirk Sluice:
+
+[http://www.goldrushtradingpost.com/angus\_mackirk\_products][13]
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -76,3 +89,7 @@ Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-slu
 [7]: http://www.bazookagoldtrap.com/
 [8]: http://www.bearbottommining.com/
 [9]: http://www.goldrushtradingpost.com/gold_well_vortex_sluice
+[10]: https://www.youtube.com/watch?v=IJPhY2QbZ2Y
+[11]: https://www.facebook.com/gold.well.18/
+[12]: http://www.goldfeverprospecting.com/letrslboxrir.html
+[13]: http://www.goldrushtradingpost.com/angus_mackirk_products
