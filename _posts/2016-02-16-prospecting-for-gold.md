@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T05:40:22.908Z'
-dateModified: '2016-02-16T05:40:20.499Z'
+datePublished: '2016-02-16T06:55:15.719Z'
+dateModified: '2016-02-16T06:54:25.746Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -42,8 +42,17 @@ I plan to invest in the following items:
 [https://www.youtube.com/watch?v=QGX1wXWl1rk][3]
 
 3\. Dowsing Rod - made of copper
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cf74a45-7fa9-48e6-9abc-3037b5356a80.jpg)
+
+4\. Classifiers: [http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier-screen-prospecting-equipment-panning-/251721428523?hash=item3a9bc42e2b][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df24891-d319-4e29-8495-f1abad66c09b.jpg)
+
+5\. Sleuce Box: G Sleuce: [http://www.gotnuggets.com/drriabsplsls.html][5]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c8178f-808a-4e6a-9c25-86c899e320a6.jpg)
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
 [2]: http://www.gold-n-sand.com/#/x-stream-pro/4578344545
 [3]: https://www.youtube.com/watch?v=QGX1wXWl1rk
+[4]: http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier-screen-prospecting-equipment-panning-/251721428523?hash=item3a9bc42e2b
+[5]: http://www.gotnuggets.com/drriabsplsls.html
