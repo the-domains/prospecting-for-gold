@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T07:10:21.572Z'
-dateModified: '2016-02-16T07:08:18.041Z'
+datePublished: '2016-02-16T07:55:53.169Z'
+dateModified: '2016-02-16T07:55:50.109Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -31,40 +31,40 @@ This is my original initial set I purchased in order to get started in panning f
 
 I plan to invest in the following items:
 
-1\. Turbopan: [http://www.turbopan.com][0]
+A. Turbopan: [http://www.turbopan.com][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76610d8f-a7cc-4ba4-bd95-1651ee67ae9c.jpg)
 
 [https://www.youtube.com/watch?v=bRR\_n\_aYK5o][1]
 
-2\. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545 ][2]
+B. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545 ][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f82c1673-b2eb-4218-ac83-a0cd282889a9.jpg)
 
 [https://www.youtube.com/watch?v=QGX1wXWl1rk][3]
 
-3\. Dowsing Rod - made of copper
+C. Dowsing Rod - made of copper
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cf74a45-7fa9-48e6-9abc-3037b5356a80.jpg)
 
-4\. Classifiers: [http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier-screen-prospecting-equipment-panning-/251721428523?hash=item3a9bc42e2b][4]
+D. Classifiers: [http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier-screen-prospecting-equipment-panning-/251721428523?hash=item3a9bc42e2b][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df24891-d319-4e29-8495-f1abad66c09b.jpg)
 
-5\. Sleuce Box: G Sleuce: [http://www.gotnuggets.com/drriabsplsls.html][5]
+E. Sleuce Boxes: 
 
-Drop Ripple Sleuce
+1\. Drop Ripple Sleuce: [http://www.gotnuggets.com/drriabsplsls.html][5]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c8178f-808a-4e6a-9c25-86c899e320a6.jpg)
 
-[http://www.goldfeverprospecting.com/sluiceboxes.html][6]
+Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-sluice-box-finding-gold-fast-easy.html][6]
 
-Top Sleuce Boxes I've come across: 
+2\.  Bazooka Gold Trap: [http://www.bazookagoldtrap.com][7]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a02aad4f-dc0a-4d9e-8411-0b987c70f7fa.jpg)
 
-Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-sluice-box-finding-gold-fast-easy.html][7]
+3\. Grizzly Sluice III: [http://www.bearbottommining.com][8]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a44e1fb-e1e4-4370-b2d0-7b3065101ef2.jpg)
 
-1\.  Bazooka Gold Trap
+4\. Top Runner Sluice
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfadca6e-8d03-4399-9fe0-8fc989f4f4d4.jpg)
 
-2\. Grizzly Sluice III
-
-3\. Top Runner Sluice
-
-4\. Vortex Drop Riffle Sluice Box: source: [http://www.goldrushtradingpost.com/gold\_well\_vortex\_sluice][8]
+5\. Vortex Drop Riffle Sluice Box:  [http://www.goldrushtradingpost.com/gold\_well\_vortex\_sluice][9]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c926ae53-4c8f-47a5-a3ae-bc9a13e02bfd.jpg)
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -72,6 +72,7 @@ Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-slu
 [3]: https://www.youtube.com/watch?v=QGX1wXWl1rk
 [4]: http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier-screen-prospecting-equipment-panning-/251721428523?hash=item3a9bc42e2b
 [5]: http://www.gotnuggets.com/drriabsplsls.html
-[6]: http://www.goldfeverprospecting.com/sluiceboxes.html
-[7]: http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-sluice-box-finding-gold-fast-easy.html
-[8]: http://www.goldrushtradingpost.com/gold_well_vortex_sluice
+[6]: http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-sluice-box-finding-gold-fast-easy.html
+[7]: http://www.bazookagoldtrap.com/
+[8]: http://www.bearbottommining.com/
+[9]: http://www.goldrushtradingpost.com/gold_well_vortex_sluice
