@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T09:39:11.927Z'
-dateModified: '2016-02-16T09:37:59.298Z'
+datePublished: '2016-02-16T10:19:23.665Z'
+dateModified: '2016-02-16T10:18:53.905Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -98,6 +98,7 @@ Source: [http://volcano.oregonstate.edu/gold][15]
 > This type of deposit forms beneath stratovolcanoes and is associated with subduction zones. Erosion strips off overlying rocks to expose the mineralization. Gold and copper are found in sulfide minerals disseminated throughout the large volumes of intrusive rock (strictly speaking, this ore is associated with volcanic systems, usually not the volcanoes themselves). This requires large amounts of rock to be mined, often in open pits. The deposits are commonly 3-8 km across and copper may be less than 1% of the rock. Porphyry deposits are zoned in alteration (potassic (r) sericitic (r) argillic (r) propylitic) and mineralization.
 
 ## Gold in Epithermal Deposits
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a8bd8b5-263a-40b5-96be-099585f56c84.jpg)
 
 > Epithermal refers to mineral deposits that form in association with hot waters. The deposits form within 1 km of the surface and water temperatures are about 50-200 degrees C. Shallow bodies of magma supply heat. The rising hot water carries dissolved gold and other elements. The water boils about 300 m below the surface and hydrogen sulfide gas escapes. This causes the gold to precipitate. The boiling zone is the target for mineral exploration. Veins commonly host the economic minerals. Diagram from ITAM Gold by the Minerals Council of Australia.
 
