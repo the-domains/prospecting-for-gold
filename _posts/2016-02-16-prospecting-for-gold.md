@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T09:24:09.914Z'
-dateModified: '2016-02-16T09:23:43.596Z'
+datePublished: '2016-02-16T09:29:51.814Z'
+dateModified: '2016-02-16T09:29:26.866Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -90,11 +90,20 @@ Source: [http://volcano.oregonstate.edu/gold][15]
 **Gold in Greenstone Belts
 **
 
+> Gold is found in Archean (rocks older than 2.5 billion years) greenstone belts in Australia, southern Africa, and Canada. Greenstone belts are volcanic-sedimentary sequences, which include ultramafic rocks, dolerite, basalt, chert, sandstone, shale, tuff, banded iron-formation and other rock types. These rocks are very complex, having undergone metamorphism, folding, faulting, and shearing. Gold is most commonly found along the edges of greenstone belts and associated with structural features. Intensely altered and fractured basalt is a common host rock. The gold is though to be mobilized by hydrothermal solutions during regional metamorphism. The solutions probably contain only a few parts-per billion gold but great volumes of solution can precipitate their gold in a small zone with favorable chemical conditions. The deposit itself is usually a quartz vein that carries the gold or adjacent altered rock.
+
 **Gold in Porphyry Deposits
 **
 
+> Gold and copper are found in ore bodies associated with porphry. Porphry is a general term applied to igneous rocks of any composition that contain conspicuous phenocrysts (crystals) in a fine-grained groundmass. The term is from a Greek word for purple dye and was first applied to a purple-red rock with phenocrysts of alkali feldspar that was quarried in Egypt. Diagram from ITAM Copper by the Minerals Council of Australia.
+> This type of deposit forms beneath stratovolcanoes and is associated with subduction zones. Erosion strips off overlying rocks to expose the mineralization. Gold and copper are found in sulfide minerals disseminated throughout the large volumes of intrusive rock (strictly speaking, this ore is associated with volcanic systems, usually not the volcanoes themselves). This requires large amounts of rock to be mined, often in open pits. The deposits are commonly 3-8 km across and copper may be less than 1% of the rock. Porphyry deposits are zoned in alteration (potassic (r) sericitic (r) argillic (r) propylitic) and mineralization.
+
 **Gold in Epithermal Deposits
 **
+
+****
+
+> Epithermal refers to mineral deposits that form in association with hot waters. The deposits form within 1 km of the surface and water temperatures are about 50-200 degrees C. Shallow bodies of magma supply heat. The rising hot water carries dissolved gold and other elements. The water boils about 300 m below the surface and hydrogen sulfide gas escapes. This causes the gold to precipitate. The boiling zone is the target for mineral exploration. Veins commonly host the economic minerals. Diagram from ITAM Gold by the Minerals Council of Australia.
 
 [http://www.cbmap.net/images/nelson-gold-in-the-hot-spring-environment.pdf][16]
 
