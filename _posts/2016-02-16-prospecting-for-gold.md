@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T09:21:15.749Z'
-dateModified: '2016-02-16T09:21:01.260Z'
+datePublished: '2016-02-16T09:24:09.914Z'
+dateModified: '2016-02-16T09:23:43.596Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -114,11 +114,15 @@ Source: [http://volcano.oregonstate.edu/gold][15]
 
 [http://www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615][20]
 
-Gold Vs. Fool's Gold: [http://www.goldgold.com/fools-gold.html][21]
+**Fault Lines lead to Gold: **
+
+http://webcache.googleusercontent.com/search?q=cache:dZ9NszAg8r8J:www.mining.com/web/fault-lines-lead-to-gold/+&cd=1&hl=en&ct=clnk&gl=kr
+
+**Gold Vs. Fool's Gold: **
 
 Gold is a brassy yellow metal. Gold does not glitter; it shines. It can be dull or bright. Fools gold (Pyrite or mica) will glitter due to its crystalline structure. Gold is malleable. It will dent or bend with a small amount of force. Fools gold is usually hard and brittle. Natural gold almost never shatters. Gold is heavy.
 
-[http://www.goldgold.com/gold-prospectingcharacteristics-of-gold.html][22]
+[http://www.goldgold.com/gold-prospectingcharacteristics-of-gold.html][21]
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -140,6 +144,5 @@ Gold is a brassy yellow metal. Gold does not glitter; it shines. It can be dull 
 [17]: http://investingnews.com/daily/resource-investing/precious-metals-investing/gold-investing/an-overview-of-epithermal-gold-deposits/
 [18]: https://books.google.co.kr/books?id=79sDAAAAMBAJ&pg=PA504&lpg=PA504&dq=extinct+volcanoes+gold&source=bl&ots=9QSYDLtv_3&sig=pWjoKwyiN5uNwXPAaT1nSStYPig&hl=en&sa=X&ved=0CE0Q6AEwCWoVChMIlZL_18XxxwIVxJmUCh0AfAYZ#v=onepage&q=extinct%20volcanoes%20gold&f=false
 [19]: http://www.goldprospectorkit.com/uncategorized/where-to-find-gold-look-for-magma/
-[20]: Source%28s%29:%20http:/www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615
-[21]: http://www.goldgold.com/fools-gold.html
-[22]: http://www.goldgold.com/gold-prospectingcharacteristics-of-gold.html
+[20]: http://www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615
+[21]: http://www.goldgold.com/gold-prospectingcharacteristics-of-gold.html
