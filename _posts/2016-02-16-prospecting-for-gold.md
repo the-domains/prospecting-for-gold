@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T03:14:02.690Z'
-dateModified: '2016-02-16T03:13:57.613Z'
+datePublished: '2016-02-16T03:27:40.891Z'
+dateModified: '2016-02-16T03:22:42.943Z'
 title: "\_ \_ \_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -28,3 +28,12 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cce952f-f3b1-4803-8c13-5ab85bd98fb2.jpg)
 
 This is my original initial set I purchased in order to get started in panning for gold. I have plans to make additional purchases in the near future. I don't like the mini classifiers that came with the set, so I plan to buy ones that cover the pan and five gallon buckets.
+
+I plan to invest in the following items:
+
+1\. Turbopan: [http://www.turbopan.com][0]
+
+2\. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545][1]
+
+[0]: http://www.turbopan.com/
+[1]: http://www.gold-n-sand.com/#/x-stream-pro/4578344545
