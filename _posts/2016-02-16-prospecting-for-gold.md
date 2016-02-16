@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T08:28:30.434Z'
-dateModified: '2016-02-16T08:27:41.600Z'
+datePublished: '2016-02-16T08:36:03.669Z'
+dateModified: '2016-02-16T08:31:35.501Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -72,12 +72,20 @@ Source: [http://www.treasurenet.com/forums/gold-prospecting/307553-what-best-slu
 
 Facebook:  [https://www.facebook.com/gold.well.18/][11]
 
-6\. Le Trap Sluice Box: [http://www.goldfeverprospecting.com/letrslboxrir.html][12]
+Online Debate: 
+
+[http://www.treasurenet.com/forums/gold-prospecting/332677-gold-well-drop-riffle-vortex-sluice-action.html][12]
+
+6\. Le Trap Sluice Box: [http://www.goldfeverprospecting.com/letrslboxrir.html][13]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb97f15f-de65-45d4-8bbb-f800fa4ec055.jpg)
 
 7\. Angus MacKirk Sluice:
 
-[http://www.goldrushtradingpost.com/angus\_mackirk\_products][13]
+[http://www.goldrushtradingpost.com/angus\_mackirk\_products][14]
+
+# How Gold Forms
+
+http://volcano.oregonstate.edu/gold
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -91,5 +99,6 @@ Facebook:  [https://www.facebook.com/gold.well.18/][11]
 [9]: http://www.goldrushtradingpost.com/gold_well_vortex_sluice
 [10]: https://www.youtube.com/watch?v=IJPhY2QbZ2Y
 [11]: https://www.facebook.com/gold.well.18/
-[12]: http://www.goldfeverprospecting.com/letrslboxrir.html
-[13]: http://www.goldrushtradingpost.com/angus_mackirk_products
+[12]: http://www.treasurenet.com/forums/gold-prospecting/332677-gold-well-drop-riffle-vortex-sluice-action.html
+[13]: http://www.goldfeverprospecting.com/letrslboxrir.html
+[14]: http://www.goldrushtradingpost.com/angus_mackirk_products
