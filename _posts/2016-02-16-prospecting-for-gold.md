@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T13:45:19.052Z'
+datePublished: '2016-02-16T13:45:19.711Z'
 dateModified: '2016-02-16T13:41:42.984Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
