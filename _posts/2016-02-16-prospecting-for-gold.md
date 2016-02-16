@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T10:19:23.665Z'
-dateModified: '2016-02-16T10:18:53.905Z'
+datePublished: '2016-02-16T13:45:19.052Z'
+dateModified: '2016-02-16T13:41:42.984Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -47,7 +47,7 @@ C. Dowsing Rod - made of copper
 D. Classifiers: [http://www.ebay.com/itm/9pc-GOLD-MINING-SIFTING-PANS-classifier-screen-prospecting-equipment-panning-/251721428523?hash=item3a9bc42e2b][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df24891-d319-4e29-8495-f1abad66c09b.jpg)
 
-E. Sleuce Boxes: 
+E. One Sleuce Boxe: (Still undecided)
 
 1\. Drop Ripple Sleuce: 
 
