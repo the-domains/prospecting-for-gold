@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T09:16:14.225Z'
-dateModified: '2016-02-16T09:15:34.824Z'
+datePublished: '2016-02-16T09:21:15.749Z'
+dateModified: '2016-02-16T09:21:01.260Z'
 title: "\_ \_ Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
@@ -116,7 +116,9 @@ Source: [http://volcano.oregonstate.edu/gold][15]
 
 Gold Vs. Fool's Gold: [http://www.goldgold.com/fools-gold.html][21]
 
-Gold does not glitter; it shines. Fools gold will glitter.
+Gold is a brassy yellow metal. Gold does not glitter; it shines. It can be dull or bright. Fools gold (Pyrite or mica) will glitter due to its crystalline structure. Gold is malleable. It will dent or bend with a small amount of force. Fools gold is usually hard and brittle. Natural gold almost never shatters. Gold is heavy.
+
+[http://www.goldgold.com/gold-prospectingcharacteristics-of-gold.html][22]
 
 [0]: http://www.turbopan.com/
 [1]: https://www.youtube.com/watch?v=bRR_n_aYK5o
@@ -140,3 +142,4 @@ Gold does not glitter; it shines. Fools gold will glitter.
 [19]: http://www.goldprospectorkit.com/uncategorized/where-to-find-gold-look-for-magma/
 [20]: Source%28s%29:%20http:/www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615
 [21]: http://www.goldgold.com/fools-gold.html
+[22]: http://www.goldgold.com/gold-prospectingcharacteristics-of-gold.html
