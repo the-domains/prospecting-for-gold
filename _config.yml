@@ -1,0 +1,28 @@
+name: Prospecting for Gold
+favicon: null
+layout_spectrum: 0.6722277221269906
+typography_spectrum: 0.8017654032446444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7079456248320639
+  lightness: 0.25619468465447426
+  saturation: 0.37106141820549965
+  rhythmicContrast: 0.2310495877172798
+purpose: []
