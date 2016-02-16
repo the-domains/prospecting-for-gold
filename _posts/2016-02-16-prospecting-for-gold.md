@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T03:27:40.891Z'
-dateModified: '2016-02-16T03:22:42.943Z'
-title: "\_ \_ \_ \_ Prospecting For Gold"
+datePublished: '2016-02-16T03:29:02.020Z'
+dateModified: '2016-02-16T03:28:58.045Z'
+title: "\_ \_ \_Prospecting For Gold"
 author: []
 sourcePath: _posts/2016-02-16-prospecting-for-gold.md
 published: true
@@ -33,7 +33,10 @@ I plan to invest in the following items:
 
 1\. Turbopan: [http://www.turbopan.com][0]
 
-2\. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545][1]
+2\. X Stream Pro: [http://www.gold-n-sand.com/\#/x-stream-pro/4578344545 ][1]
+
+[https://www.youtube.com/watch?v=QGX1wXWl1rk][2]
 
 [0]: http://www.turbopan.com/
 [1]: http://www.gold-n-sand.com/#/x-stream-pro/4578344545
+[2]: https://www.youtube.com/watch?v=QGX1wXWl1rk
